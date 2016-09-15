@@ -3,7 +3,6 @@ politicator is a prototype app that helps users undestand how their political le
 
 **Original Designs:**
 ![Alt text](/public/images/homepage.jpg?raw=true "Home Page Design")
-![Alt text](/public/images/profile.jpg?raw=true "Profile Page Design")
 
 The goal of this project was to work in a 4 person team to build a full-stack app in Ruby on Rails, using Active Record to interact with a PostgreSQL database. That app needed to have multiple models, RESTful routes, users and authentication, authorization, error handling, and password encryption. The app also needed be mobile optimized and showcase an appealing UI. The purpose of the app was to enforce core MVC concepts and explore managing multiple models with User accounts.
 
